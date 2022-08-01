@@ -32,7 +32,7 @@ public class nestedfor
 				System.out.println("value of j:"+j+" and value of k:" +k);
 				
 			}
-			System.out.println("******KITTU******");
+			System.out.println("******KITTU ******");
 		}
 	}
 }

@@ -1,7 +1,7 @@
 class Department
 {
-	public int Department_id;
-	String Department_name;
+	 int Department_id;
+	 String Department_name;
 }
 class MCA extends Department
 {
